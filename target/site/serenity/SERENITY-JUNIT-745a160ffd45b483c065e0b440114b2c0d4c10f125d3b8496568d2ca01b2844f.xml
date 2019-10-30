@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="com.zuhlke.predictions.common.HomePageTest" skipped="0" tests="1" time="0.0" timestamp="2019-10-30 04:03:18"><testcase classname="com.zuhlke.predictions.common.HomePageTest" name="Initialisation"><error message="The following error occurred: Error forwarding the new session Error forwarding the request Failed to connect to /169.254.18.0:21681&#10;Command duration or timeout: 111.17 seconds&#10;Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'&#10;System info: host: 'Jesuss-MacBook-Pro.local', ip: 'fe80:0:0:0:1412:bd64:8e2a:1da%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_211'&#10;Driver info: driver.version: RemoteWebDriver" type="org.openqa.selenium.WebDriverException">The following error occurred: Error forwarding the new session Error forwarding the request Failed to connect to /169.254.18.0:21681
+Command duration or timeout: 111.17 seconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Jesuss-MacBook-Pro.local', ip: 'fe80:0:0:0:1412:bd64:8e2a:1da%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_211'
+Driver info: driver.version: RemoteWebDriver</error><system-err>The following error occurred: Error forwarding the new session Error forwarding the request Failed to connect to /169.254.18.0:21681
+Command duration or timeout: 111.17 seconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Jesuss-MacBook-Pro.local', ip: 'fe80:0:0:0:1412:bd64:8e2a:1da%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.14.5', java.version: '1.8.0_211'
+Driver info: driver.version: RemoteWebDriver
+com.zuhlke.predictions.BaseSeleniumTest.setup(BaseSeleniumTest.java:22)
+</system-err></testcase></testsuite>
